@@ -12,4 +12,8 @@
         <item>@string/opcion_crear</item>
         <item>@string/opcion_listar</item>
     </string-array>
+
+    <string name="error_cedula">Digite la cédula</string>
+    <string name="error_nombre">Digite el nombre</string>
+    <string name="error_apellido">Digite el apellido</string>
 </resources>
