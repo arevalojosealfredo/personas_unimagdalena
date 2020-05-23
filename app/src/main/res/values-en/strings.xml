@@ -3,4 +3,15 @@
     <string name="app_name">People</string>
     <string name="opcion_crear">Create</string>
     <string name="opcion_listar">List</string>
+    <string name="titulo">Create People</string>
+    <string name="cedula">Identification</string>
+    <string name="nombre">Name</string>
+    <string name="apellido">Last Name</string>
+    <string name="guardar">Save</string>
+    <string name="limpiar">Clear</string>
+    <string name="error_cedula">Type Identification</string>
+    <string name="error_nombre">Type Name</string>
+    <string name="error_apellido">Type Last Name</string>
+    <string name="numero">No.</string>
+    <string name="mensaje_guardado">Person save correct</string>
 </resources>

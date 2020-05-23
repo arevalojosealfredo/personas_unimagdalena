@@ -8,6 +8,7 @@
     <string name="apellido">Apellido</string>
     <string name="guardar">Guardar</string>
     <string name="limpiar">Limpiar</string>
+    <string name="mensaje_guardado">Persona Guardada Exitosamente</string>
     <string-array name="opciones">
         <item>@string/opcion_crear</item>
         <item>@string/opcion_listar</item>

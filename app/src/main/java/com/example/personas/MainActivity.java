@@ -28,11 +28,11 @@ public class MainActivity extends AppCompatActivity {
                 switch (position){
                     case 0:
                         intent = new Intent(MainActivity.this, CrearPersonas.class);
-                        startActivities(intent);
+                        startActivity(intent);
                         break;
                     case 1:
                         intent = new Intent(MainActivity.this, ListarPersonas.class);
-                        startActivities(intent);
+                        startActivity(intent);
                         break;
                 }
             }
