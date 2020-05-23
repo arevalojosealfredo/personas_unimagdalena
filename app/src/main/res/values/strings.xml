@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Personas</string>
+    <string name="opcion_crear">Crear</string>
+    <string name="opcion_listar">Listar</string>
+    <string-array name="opciones">
+        <item>@string/opcion_crear</item>
+        <item>@string/opcion_listar</item>
+    </string-array>
 </resources>

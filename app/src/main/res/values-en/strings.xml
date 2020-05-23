@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">People</string>
+    <string name="opcion_crear">Create</string>
+    <string name="opcion_listar">List</string>
+</resources>
