@@ -16,4 +16,6 @@
     <string name="error_cedula">Digite la cédula</string>
     <string name="error_nombre">Digite el nombre</string>
     <string name="error_apellido">Digite el apellido</string>
+    <string name="numero">No.</string>
+
 </resources>
