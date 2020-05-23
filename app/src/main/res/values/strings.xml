@@ -2,6 +2,12 @@
     <string name="app_name">Personas</string>
     <string name="opcion_crear">Crear</string>
     <string name="opcion_listar">Listar</string>
+    <string name="titulo">Crear Personas</string>
+    <string name="cedula">Cédula</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="guardar">Guardar</string>
+    <string name="limpiar">Limpiar</string>
     <string-array name="opciones">
         <item>@string/opcion_crear</item>
         <item>@string/opcion_listar</item>
